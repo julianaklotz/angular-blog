@@ -1,0 +1,11 @@
+@media (min-width:300px) and (max-width:600px){
+  .menu__title__container > h1{
+    font-size: 40px;
+  }
+}
+
+@media (min-width:601px) and (max-width:910px){
+  .menu__title__container > h1{
+    font-size: 60px;
+  }
+}

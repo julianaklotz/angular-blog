@@ -1,0 +1,18 @@
+.container__menu__bar > ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu__bar > ul > li{
+  margin-right: 20px;
+  list-style: none;
+  color: white;
+}
+
+.container__menu__bar > ul > li > a {
+  color: white;
+}
+
+.container__menu__bar > ul > li :hover {
+  color: rgb(129, 185, 127);
+}

@@ -1,0 +1,35 @@
+@media (min-width:300px) and (max-width:600px){
+  .big__card__container{
+    align-items: center;
+    width: 320px;
+    height: 400px;
+  }
+  .big__card__photo > img{
+    width: 100%;
+    min-width: 320px;
+  }
+
+  .big__card__title > h2 > a{
+    font-size: 18px;
+  }
+
+}
+@media (min-width:601px) and (max-width:910px){
+  .big__card__container{
+    height: 470px;
+  }
+}
+@media (min-width:911px) and (max-width:1390px){
+  .big__card__container{
+    margin-left: 50px;
+    margin-right: 20px;
+    width: 350px;
+  }
+  .big__card__photo > img{
+    width: 100%;
+    min-width: 350px;
+  }
+  .big__card__title > h2 > a{
+    font-size: 20px;
+  }
+}

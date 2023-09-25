@@ -12,6 +12,7 @@
 .big__card__photo > img{
   width: 100%;
   min-width: 480px;
+  border-radius: 15px;
 }
 
 .big__card__title > h2 > a{
